@@ -1,104 +1,16 @@
 ---
 layout: post
 title:  "Powerful things you can do with the Markdown editor"
-author: sal
+author: hayal
 categories: [ Jekyll, tutorial ]
 image: assets/images/16.jpg
 ---
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et est eu diam vestibulum tincidunt id sed diam. Aenean tincidunt augue arcu, sit amet venenatis odio convallis vel. Maecenas vitae consectetur lectus. Phasellus dignissim, neque eu viverra iaculis, nibh ex malesuada leo, eu ultricies elit nibh vel turpis. Donec auctor orci vel malesuada vulputate. Maecenas eleifend massa non auctor tempus. Donec arcu mauris, semper eu leo nec, maximus pharetra mauris. Pellentesque nec hendrerit massa, pulvinar egestas risus. Pellentesque fermentum pellentesque risus, quis elementum elit molestie nec. Duis elementum, elit sit amet mollis commodo, leo est rhoncus nisl, non feugiat ex enim vel lacus. Curabitur fringilla sit amet quam eu sodales.
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+Proin tincidunt efficitur ipsum, pharetra dapibus erat pulvinar et. Suspendisse euismod mauris ac tellus lacinia faucibus. Suspendisse finibus eleifend efficitur. Vivamus mollis neque nulla, vel molestie ligula ullamcorper quis. Nulla vel lacus tincidunt, pulvinar est at, porttitor mi. Aliquam erat volutpat. Suspendisse et sapien nec neque pellentesque ullamcorper. Nunc id eros mauris. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce blandit enim sapien, vel convallis libero vestibulum in. Curabitur mattis, neque et finibus commodo, libero enim gravida est, sed accumsan tellus risus sed justo. Phasellus tristique, magna ut semper sollicitudin, magna elit pharetra ante, in facilisis ante urna consequat orci.
 
+Fusce ligula nisi, commodo quis eros at, aliquam molestie augue. Proin facilisis velit eget accumsan mattis. Aliquam tempor viverra est, at pellentesque ante gravida feugiat. Praesent viverra vestibulum enim at elementum. Vivamus volutpat purus bibendum erat interdum, et iaculis elit tincidunt. Suspendisse potenti. Suspendisse vestibulum euismod nunc quis porta. Nullam bibendum, lorem tristique lobortis fringilla, ex turpis malesuada velit, sit amet tincidunt ipsum felis non diam. Suspendisse sit amet sem mauris. Praesent id nisl enim.
 
-## Special formatting
+Sed nec est ut nulla faucibus auctor eget quis est. Nulla vitae massa ac metus fermentum pretium. Ut ac ante ac orci pharetra dapibus tincidunt sed erat. Nunc rhoncus ullamcorper tellus, placerat feugiat urna fermentum sit amet. Pellentesque id imperdiet ipsum, sed ullamcorper magna. Aliquam pharetra, eros ut eleifend luctus, nulla ex pharetra nulla, et placerat libero erat ac dolor. Maecenas nec enim velit. Cras nibh purus, ornare nec arcu tincidunt, viverra luctus urna. Vestibulum sodales, tortor quis laoreet ullamcorper, odio odio consequat nulla, ac feugiat leo risus vitae mi. Morbi sit amet porttitor leo.
 
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
-
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
-
-
-## Writing code blocks
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-#### HTML
-
-```html
-<li class="ml-1 mr-1">
-    <a target="_blank" href="#">
-    <i class="fab fa-twitter"></i>
-    </a>
-</li>
-```
-
-#### CSS
-
-```css
-.highlight .c {
-    color: #999988;
-    font-style: italic; 
-}
-.highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; 
-}
-```
-
-#### JS
-
-```js
-// alertbar later
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
-});
-```
-
-#### Python
-
-```python
-print("Hello World")
-```
-
-#### Ruby
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-#### C
-
-```c
-printf("Hello World");
-```
-
-
-
-
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
-
-## Reference lists
-
-The quick brown jumped over the lazy.
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+Nulla molestie, sem in commodo interdum, neque risus sollicitudin leo, a hendrerit massa neque sed sapien. Donec at ante eu velit eleifend molestie. Phasellus sit amet feugiat metus. Cras gravida efficitur metus quis faucibus. Nullam eu quam felis. Aliquam mattis nisl non erat ultrices, sed posuere nunc vulputate. Ut lobortis lectus non ligula venenatis, vitae volutpat lectus blandit. Nullam a congue mi. Integer nisl dui, placerat nec nisi ut, aliquet tempor ipsum. Proin eu turpis id dolor placerat maximus vel quis enim.
