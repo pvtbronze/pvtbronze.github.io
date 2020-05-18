@@ -7,7 +7,6 @@ favicon: 'assets/images/logo.png'
 baseurl: ""
 google_analytics: ''
 disqus: 'demowebsite'
-
 include: ["_pages"]
 permalink: /:title/
 
@@ -18,7 +17,6 @@ authors:
     display_name: Hayal
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: tttt@gmail.com
-
     twitter: https://twitter.com/pvtbronze
     description: "You are currently previewing unsolicited commentaries."
 
