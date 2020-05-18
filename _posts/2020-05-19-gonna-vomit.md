@@ -3,7 +3,7 @@ layout: post
 author: hayal
 published: true
 title: I am gonna vomit from trying
-image: assets/3.jpg
+image: assets/images/3.jpg
 ---
 
 
