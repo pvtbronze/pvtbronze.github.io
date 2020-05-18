@@ -10,9 +10,6 @@ comments: true
 
 <p>This website blablablabla</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
 
 </div>
 
