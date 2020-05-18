@@ -1,5 +1,6 @@
 ---
 published: true
+title: I am gonna vomit from trying
 ---
 ## A New Post
 
