@@ -1,4 +1,6 @@
 ---
+layout: post
+author: hayal
 published: true
 title: I am gonna vomit from trying
 ---
