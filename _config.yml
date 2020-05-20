@@ -1,12 +1,11 @@
 # Site
-name: "moi"
+name: "journal"
 title: "moi"
-description: "unsolicited commentaries on things."
+description: "unsolicited commentaries on the world I live, as I see."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
 google_analytics: ''
-disqus: 'demowebsite'
 include: ["_pages"]
 permalink: /:title/
 
