@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why I write?
+title: About
 permalink: /about
 comments: true
 ---
