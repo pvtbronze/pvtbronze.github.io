@@ -1,7 +1,5 @@
 ---
-published: false
----
----
+
 layout: post
 title:  "Inception Movie"
 author: hayal
